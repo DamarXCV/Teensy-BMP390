@@ -1,0 +1,8 @@
+{
+    "name": "BMP390",
+    "version": "0.0.0+20221106154029",
+    "dependencies":
+    {
+        "Teensy-SPIDevice": "https://github.com/DamarXCV/Teensy-SPIDevice"
+    }
+}
